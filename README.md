@@ -1,6 +1,6 @@
 # Doglist
 
-> This is the first homework for course CS175 submmited by JuntongPeng
+> This is the first homework for course CS175 submmited by [JuntongPeng](https://www.zhihu.com/question/422764302)
 
 ## 2021-10-23
 1. Basic features.
